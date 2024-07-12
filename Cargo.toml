@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+
+members = [
+  "ctf-bump",
+  "ctf-bump/meta",
+  "ctf-coinflip",
+  "ctf-coinflip/meta",
+  "ctf-gaspass",
+  "ctf-gaspass/meta",
+  "bump-common",
+]

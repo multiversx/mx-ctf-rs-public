@@ -1,0 +1,5 @@
+[settings]
+
+[[proxy]]
+path = "../interact/src/ctf_gaspass_proxy.rs"
+override-import = "use multiversx_sc_snippets::multiversx_sc::imports::*;"

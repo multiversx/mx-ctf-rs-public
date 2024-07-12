@@ -1,0 +1,18 @@
+[package]
+name = "ctf-bump"
+version = "0.0.0"
+authors = ["Andrei Marinica <andrei.marinica@multiversx.com>"]
+edition = "2021"
+publish = false
+
+[lib]
+path = "src/ctf_bump.rs"
+
+[dependencies.multiversx-sc]
+version = "0.51.1"
+
+[dependencies.bump-common]
+path = "../bump-common"
+
+[dev-dependencies.multiversx-sc-scenario]
+version = "0.51.1"
