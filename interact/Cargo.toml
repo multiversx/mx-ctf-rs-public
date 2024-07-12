@@ -1,0 +1,27 @@
+[package]
+name = "basic-interact"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[[bin]]
+name = "basic-interact"
+path = "src/basic_interact.rs"
+
+[dependencies]
+toml = "0.8.6"
+csv = "1.3.0"
+
+[dependencies.clap]
+version = "4.4.7"
+features = ["derive"]
+
+[dependencies.serde]
+version = "1.0"
+features = ["derive"]
+
+[dependencies.ctf-bump]
+path = "../ctf-bump"
+
+[dependencies.multiversx-sc-snippets]
+version = "0.51.1"

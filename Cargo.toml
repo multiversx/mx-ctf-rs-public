@@ -9,4 +9,5 @@ members = [
   "ctf-gaspass",
   "ctf-gaspass/meta",
   "bump-common",
+  "interact",
 ]
