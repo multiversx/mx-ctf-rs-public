@@ -1,4 +1,4 @@
 gateway = 'https://devnet-gateway.multiversx.com'
-bump_address = "erd1qqqqqqqqqqqqqpgq8ry8k8vk70wwpsjyey7xk8f57qcmpadwa4sq5tcnf9"
-coinflip_address = "erd1qqqqqqqqqqqqqpgqu7ym00xsszp2mf5dh3xz798rtqjz43jta4sqzpt82e"
-gaspass_address = "erd1qqqqqqqqqqqqqpgqqx2l65rtymptmyzdaqyr9mmdpm5cgrxga4sqld6mrz"
+bump_address = "erd1qqqqqqqqqqqqqpgq6x8g8yrz0vvu8s5vr9nskut5cnwypdm64wzqcv0up4"
+coinflip_address = "erd1qqqqqqqqqqqqqpgq6mmdf9vl9twgmw3fpx0p4pryldl6mxuf4wzq40hhs2"
+gaspass_address = "erd1qqqqqqqqqqqqqpgq4nd03gh76h0pw06vjhv3h64fm55alwfk4wzqks5jcd"
