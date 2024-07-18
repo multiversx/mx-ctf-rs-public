@@ -17,9 +17,9 @@ For convenience, we are also providing an interactor stub. The challenge contrac
 
 ```
 gateway = 'https://devnet-gateway.multiversx.com'
-bump_address = "erd1qqqqqqqqqqqqqpgq8ry8k8vk70wwpsjyey7xk8f57qcmpadwa4sq5tcnf9"
-coinflip_address = "erd1qqqqqqqqqqqqqpgqu7ym00xsszp2mf5dh3xz798rtqjz43jta4sqzpt82e"
-gaspass_address = "erd1qqqqqqqqqqqqqpgqqx2l65rtymptmyzdaqyr9mmdpm5cgrxga4sqld6mrz"
+bump_address = "erd1qqqqqqqqqqqqqpgq23j27f6w0r75hfyc5td753f9ahvfpp5x4wzq65czqw"
+coinflip_address = "erd1qqqqqqqqqqqqqpgq0jtfsyk7rfgu50v6wh5wwtk2mjgseca54wzqyntf2v"
+gaspass_address = "erd1qqqqqqqqqqqqqpgq5tlkn9qcza52v4dtfzsx99xjxrgtw2p74wzqnyc5ea"
 ```
 
 Best of luck!
