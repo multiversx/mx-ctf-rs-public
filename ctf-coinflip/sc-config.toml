@@ -3,6 +3,3 @@
 [[proxy]]
 path = "../interact/src/ctf_coinflip_proxy.rs"
 override-import = "use multiversx_sc_snippets::multiversx_sc::imports::*;"
-
-[[proxy]]
-path = "../attack/src/ctf_coinflip_proxy.rs"
